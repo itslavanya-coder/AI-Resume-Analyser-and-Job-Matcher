@@ -1,0 +1,17 @@
+Name: Student
+
+Skills:
+Python
+Pandas
+NumPy
+Machine Learning
+SQL
+Matplotlib
+Seaborn
+
+Education:
+B.Tech Artificial Intelligence and Machine Learning
+
+Projects:
+Customer Segmentation using Python
+AI Resume Analyzer
