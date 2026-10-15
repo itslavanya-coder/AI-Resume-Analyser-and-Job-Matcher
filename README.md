@@ -49,3 +49,11 @@ python job_matcher.py
 - Matching skills
 - Missing skills
 - Data visualization
+
+## Project Output
+
+### Terminal Output
+![Terminal Output](terminal_output.png)
+
+### Bar Chart
+![Bar Chart](bar_chart.png)v
