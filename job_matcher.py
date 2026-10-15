@@ -66,7 +66,15 @@ print("\nJob Match Percentage:")
 print(match_percentage, "%")
 
 # Save result
-with open("output/result.txt", "w") as file:
+os.makedirs("output", exist_ok=True)
+
+output_path = os.path.join(
+    os.path.dirname(__file__),
+    "output",
+    "result.txt"
+)
+
+with open(output_path, "w") as file:
     file.write("AI RESUME ANALYZER\n")
     file.write("==================\n\n")
 
