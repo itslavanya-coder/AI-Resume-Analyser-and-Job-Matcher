@@ -22,3 +22,30 @@ using Python.
 ## Project Objective
 To help job seekers identify matching
 and missing skills based on job requirements.
+
+## Installation
+
+1. Install Python.
+
+2. Download or clone this repository.
+
+3. Install required libraries:
+
+   pip install -r requirements.txt
+
+## How to Run
+
+Run the Resume Analyzer:
+
+python resume_analyzer.py
+
+Run the Job Matcher:
+
+python job_matcher.py
+
+## Expected Output
+
+- Resume skills analysis
+- Matching skills
+- Missing skills
+- Data visualization
