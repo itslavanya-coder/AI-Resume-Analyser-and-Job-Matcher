@@ -57,3 +57,20 @@ python job_matcher.py
 
 ### Bar Chart
 ![Bar Chart](bar_chart.png)v
+
+## How to Run the Project
+
+### Step 1: Install Required Libraries
+pip install -r requirements.txt
+
+### Step 2: Run Resume Analyzer
+python Resume_Analyzer.py
+
+### Step 3: Run Job Matcher
+python Job_Matcher.py
+
+## Output
+- Resume Skills
+- Matched Skills
+- Missing Skills
+- Bar Chart Visualization
