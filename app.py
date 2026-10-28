@@ -8,9 +8,7 @@ st.title("AI Resume Analyzer and Job Matcher")
 st.write("Resume Skill Analysis and Job Matching")
 
 # Read original resume
-resume_path = os.path.join(
-    os.path.dirname(_file_), "resume1.txt"
-)
+resume_path = "resume1.txt"
 
 with open(resume_path, "r", encoding="utf-8") as file:
     resume_text = file.read().lower()
